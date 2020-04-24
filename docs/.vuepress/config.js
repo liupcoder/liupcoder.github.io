@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "LP",
-  "description": "LP",
+  "title": "LP's Blog",
+  "description": "一只iOS&前端程序猿",
   "dest": "public",
   base : '/Blog/',
   "head": [
@@ -69,7 +69,7 @@ module.exports = {
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
     "author": "LP",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/avatar.jpg",
     "record": "xxxx",
     "startYear": "2017"
   },
