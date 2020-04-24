@@ -29,11 +29,11 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
-      {
-        "text": "笔记",
-        "link": "/categories/note/",
-        "icon": "reco-home"
-      },
+      // {
+      //   "text": "笔记",
+      //   "link": "/views/note/index.html",
+      //   "icon": "reco-home"
+      // },
       {
         "text": "文档",
         "icon": "reco-message",
@@ -78,10 +78,10 @@ module.exports = {
         "location": 3,
         "text": "标签"
       },
-      "note": {
-        "location": 4,
-        "text": "笔记"
-      },
+      // "note": {
+      //   "location": 4,
+      //   "text": "笔记"
+      // },
     },
     "friendLink": [
       // {
