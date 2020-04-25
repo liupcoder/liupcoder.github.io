@@ -58,14 +58,11 @@ const nav = [
   { text: 'GitHub', link: 'https://github.com/liupcoder/', icon: 'reco-github' }
 ]
 
-
-
-
 module.exports = {
   title: "LP's Blog",
   description: "一只iOS&前端程序猿",
   dest: "public",
-  base: '/blog/',
+  base: '/Blog/',
   head: [
     [
       "link",
