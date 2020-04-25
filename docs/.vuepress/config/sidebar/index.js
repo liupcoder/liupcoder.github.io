@@ -1,5 +1,4 @@
 module.exports = {
-  'zh': Object.assign({}, {
     '/views/1.x/': [
       {
         title: '基础',
@@ -95,72 +94,4 @@ module.exports = {
         ]
       }
     ]
-  }),
-  'en': Object.assign({}, {
-    '/en/views/1.x/': [
-      {
-        title: 'Basic',
-        collapsable: false,
-        children: [
-          '',
-          'installUse',
-          'blog',
-          'frontMatter'
-        ]
-      },
-      {
-        title: 'Advanced',
-        collapsable: false,
-        children: [
-          'timeline',
-          'valine',
-          'password',
-          'configJs',
-          'home',
-          'themePicker',
-          'ga',
-          'notfound',
-          'mode',
-          'local'
-        ]
-      },
-      {
-        title: 'Default Theme Config',
-        collapsable: false,
-        children: [
-          'abstract',
-          'syntax',
-          'customStyleAndScript',
-          'sidebar'
-        ]
-      },
-      {
-        title: 'Other',
-        collapsable: false,
-        children: [
-          'updatetoone',
-          'recommend'
-        ]
-      }
-    ],
-    '/en/views/plugins/': [
-      {
-        title: 'Plugins',
-        collapsable: true,
-        children: [
-          '',
-          'backToTop',
-          'pagation',
-          'screenfull',
-          'loadingPage',
-          'ga',
-          'kanbanniang',
-          'comments',
-          'extractCode',
-          'rss',
-          'bgmPlayer'
-        ]
-      }
-    ]
-  })
 }

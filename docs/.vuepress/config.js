@@ -1,11 +1,12 @@
-const path = require('path')
-const themeConfig = require('./config/theme/')
+const sidebar = require('./config/sidebar/index')
+const nav = require('./config/nav/index')
+
 module.exports = {
-  "title": "LP's Blog",
-  "description": "一只iOS&前端程序猿",
-  "dest": "public",
-  "base": '/Blog/',
-  "head": [
+  title: "LP's Blog",
+  description: "一只iOS&前端程序猿",
+  dest: "public",
+  base: '/Blog/',
+  head: [
     [
       "link",
       {
@@ -21,9 +22,24 @@ module.exports = {
       }
     ]
   ],
-  "theme": "reco",
-  themeConfig,
-  "markdown": {
+  theme: "reco",
+  mode: 'light',
+  themeConfig: {
+    type: "blog", //选择类型博客
+    blogConfig: {
+      category: {
+        location: 2, // 在导航栏菜单中所占的位置，默认2
+        text: "分类" // 默认 “分类”
+      },
+      tag: {
+        location: 3, // 在导航栏菜单中所占的位置，默认3
+        text: "标签" // 默认 “标签”
+      }
+    },
+    nav,
+    sidebar
+  },
+  markdown: {
     "lineNumbers": true
   },
   plugins: [
@@ -32,5 +48,4 @@ module.exports = {
     ["@vuepress/nprogress"], // 加载进度条
     ["reading-progress"] // 阅读进度条
   ],
-  
 }
