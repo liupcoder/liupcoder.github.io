@@ -17,10 +17,10 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:liupcoder/Blog.git master
+# git push -f git@github.com:liupcoder/Blog.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:liupcoder/Blog.git master:gh-pages
+git push -f git@github.com:liupcoder/Blog.git master:gh-pages
 # 比如
 # git push -f git@github.com:Tsanfer/VuePress-GithubPages-TravisCI.git master:gh-pages
 

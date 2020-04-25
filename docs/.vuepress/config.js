@@ -65,7 +65,7 @@ module.exports = {
   title: "LP's Blog",
   description: "一只iOS&前端程序猿",
   dest: "public",
-  base: '/',
+  base: '/blog/',
   head: [
     [
       "link",
