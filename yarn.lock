@@ -836,6 +836,13 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@iktakahiro/markdown-it-katex@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@iktakahiro/markdown-it-katex/-/markdown-it-katex-3.1.0.tgz#cd40c1037f038ab00cbfee2464604435848deae9"
+  integrity sha512-Im2hih9ZkUqnUP7FhK0DTkGEVHgKNQ3BNQlbiBreWjSFPxysdylP1Ns5hLvoO+IdI1drhiiip/54VP8Gs3fLvw==
+  dependencies:
+    katex "^0.10.0"
+
 "@leancloud/adapter-types@^1.0.1", "@leancloud/adapter-types@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@leancloud/adapter-types/-/adapter-types-1.0.2.tgz#1cac623f71b73c1224e6415633a3deb54aaa102e"
@@ -1130,6 +1137,11 @@
     valine "^1.4.4"
     vssue "^1.2.2"
 
+"@vuepress-reco/vuepress-plugin-extract-code@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.4.tgz#c50b521d8a5d1c9dfd705e245a7e920a80315a32"
+  integrity sha512-J4Cas3JRxs0TnfjtzQ+3bl7iNwL/va9cOXMtpayse3sETul863BwYk1vEBXRAZMiLmbmWqnBrGIrJGmD/TnO5Q==
+
 "@vuepress-reco/vuepress-plugin-loading-page@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-loading-page/-/vuepress-plugin-loading-page-1.4.0.tgz#317202c9ef78825b3016c580a12791fc6e282511"
@@ -1234,7 +1246,7 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@1.4.1":
+"@vuepress/plugin-medium-zoom@1.4.1", "@vuepress/plugin-medium-zoom@^1.4.1":
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.4.1.tgz#5665561be3382246ae883c0ad77d91c7913e01da"
   integrity sha512-dMo8eDbmM1Y+zRRECjmCcqtuTirkpYn7FbByURRSauh2hFqjHSN/uOKOHEj71TTzs1vwrLCynHvKo6tFEuUMNA==
@@ -1471,6 +1483,13 @@ acorn@^6.4.1:
   version "6.4.1"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
   integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
+
+add-dom-event-listener@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/add-dom-event-listener/-/add-dom-event-listener-1.1.0.tgz#6a92db3a0dd0abc254e095c0f1dc14acbbaae310"
+  integrity sha512-WCxx1ixHT0GQU9hb0KI/mhgRQhnU+U3GvwY6ZvVjYq8rsihIGoaIOUbY0yMPBxLH5MDtr0kz3fisWGNcbWW7Jw==
+  dependencies:
+    object-assign "4.x"
 
 agentkeepalive@^2.2.0:
   version "2.2.0"
@@ -2208,6 +2227,13 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001039, caniuse-lite@^1.0.30001043:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001046.tgz#7a06d3e8fd8aa7f4d21c9a2e313f35f2d06b013e"
   integrity sha512-CsGjBRYWG6FvgbyGy+hBbaezpwiqIOLkxQPY4A4Ea49g1eNsnQuESB+n4QM0BKii1j80MyJ26Ir5ywTQkbRE4g==
 
+canvas-nest.js@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/canvas-nest.js/-/canvas-nest.js-2.0.4.tgz#e010075d5dbbf3cbfc1ef18942c266b1af873469"
+  integrity sha512-Wgc+39fQBIP8fm9+Rq+Zt6+QLHZRsIKpaOQPL5KcWPlXTAalCKY4KCuklY7qzzZqBRF/t2APIrk+PuRw6ZlOog==
+  dependencies:
+    size-sensor "^0.2.0"
+
 caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
@@ -2430,7 +2456,7 @@ commander@2.17.x:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
   integrity sha512-wPMUt6FnH2yzG95SA6mzjQOEKUU3aLaDEmzs1ti+1E9h+CsrZghRlqEM/EJ4KscsQVG8uNN4uVreUeT8+drlgg==
 
-commander@^2.20.0, commander@^2.9.0:
+commander@^2.19.0, commander@^2.20.0, commander@^2.9.0:
   version "2.20.3"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
@@ -3281,7 +3307,7 @@ entities@^1.1.1, entities@~1.1.1:
   resolved "https://registry.yarnpkg.com/entities/-/entities-1.1.2.tgz#bdfa735299664dfafd34529ed4f8522a275fea56"
   integrity sha512-f2LZMYl1Fzu7YSBKg+RoROelpOaNrcGmE9AZubeDfrCEia483oW4MI4VyFd5VNHIgQ/7qm1I0wUHK1eJnn2y2w==
 
-entities@^2.0.0:
+entities@^2.0.0, entities@~2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/entities/-/entities-2.0.0.tgz#68d6084cab1b079767540d80e56a39b423e4abf4"
   integrity sha512-D9f7V0JSRwIxlRI2mjMqufDrRDnx8p+eEOz7aUM9SuvF8gsBzra0/6tbjl1m8eQHrZlYj6PxqE00hZ1SAIKPLw==
@@ -4862,6 +4888,13 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
+katex@^0.10.0:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.10.2.tgz#39973edbb65eda5b6f9e7f41648781e557dd4932"
+  integrity sha512-cQOmyIRoMloCoSIOZ1+gEwsksdJZ1EW4SWm3QzxSza/QsnZr6D4U1V9S4q+B/OLm2OQ8TCBecQ8MaIfnScI7cw==
+  dependencies:
+    commander "^2.19.0"
+
 keyv@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/keyv/-/keyv-3.1.0.tgz#ecc228486f69991e49e9476485a5be1e8fc5c4d9"
@@ -5230,10 +5263,36 @@ markdown-it-emoji@^1.4.0:
   resolved "https://registry.yarnpkg.com/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz#9bee0e9a990a963ba96df6980c4fddb05dfb4dcc"
   integrity sha1-m+4OmpkKljupbfaYDE/dsF37Tcw=
 
+markdown-it-mark@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/markdown-it-mark/-/markdown-it-mark-3.0.0.tgz#27c3e39ef3cc310b2dde5375082c9fa912983cda"
+  integrity sha512-HqMWeKfMMOu4zBO0emmxsoMWmbf2cPKZY1wP6FsTbKmicFfp5y4L3KXAsNeO1rM6NTJVOrNlLKMPjWzriBGspw==
+
 markdown-it-table-of-contents@^0.4.0:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/markdown-it-table-of-contents/-/markdown-it-table-of-contents-0.4.4.tgz#3dc7ce8b8fc17e5981c77cc398d1782319f37fbc"
   integrity sha512-TAIHTHPwa9+ltKvKPWulm/beozQU41Ab+FIefRaQV1NRnpzwcV9QOe6wXQS5WLivm5Q/nlo0rl6laGkMDZE7Gw==
+
+markdown-it-task-lists@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-task-lists/-/markdown-it-task-lists-2.1.1.tgz#f68f4d2ac2bad5a2c373ba93081a1a6848417088"
+  integrity sha512-TxFAc76Jnhb2OUu+n3yz9RMu4CwGfaT788br6HhEDlvWfdeJcLUsxk1Hgw2yJio0OXsxv7pyIPmvECY7bMbluA==
+
+markdown-it-vuepress-code-snippet-enhanced@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-vuepress-code-snippet-enhanced/-/markdown-it-vuepress-code-snippet-enhanced-1.0.1.tgz#516fda41378ab537453a0f64fc8ec8d80add0518"
+  integrity sha512-CfDWHyRWuNwvBIAQTXnlZVKRGxnOo82tnFrzxn2XLoI4jAK2mn1iNNQSyXB9ouxJKDn1YChHevnIG1woUi/g/g==
+
+markdown-it@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-10.0.0.tgz#abfc64f141b1722d663402044e43927f1f50a8dc"
+  integrity sha512-YWOP1j7UbDNz+TumYP1kpwnP0aEa711cJjrAQrzd0UXlbJfc5aAq0F/PZHjiioqDC1NKgvIMX+o+9Bk7yuM2dg==
+  dependencies:
+    argparse "^1.0.7"
+    entities "~2.0.0"
+    linkify-it "^2.0.0"
+    mdurl "^1.0.1"
+    uc.micro "^1.0.5"
 
 markdown-it@^8.4.1:
   version "8.4.2"
@@ -5680,7 +5739,7 @@ oauth-sign@~0.9.0:
   resolved "https://registry.yarnpkg.com/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
   integrity sha512-fexhUFFPTGV8ybAtSIGbV6gOkSv8UtRbDBnAyLQw4QPKkgNlsH2ByPGtMUqdWkos6YCRmAqViwgZrJc/mRDzZQ==
 
-object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
+object-assign@4.x, object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
@@ -7160,6 +7219,11 @@ sitemap@^3.0.0:
     whatwg-url "^7.0.0"
     xmlbuilder "^13.0.0"
 
+size-sensor@^0.2.0:
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/size-sensor/-/size-sensor-0.2.6.tgz#6fe43afd570786f097171834002a97fe0b19a3da"
+  integrity sha512-0EZ0tXXjyRl9R9+JpoBdH57Xpnbf5NTyDdj7fnFL6KqCsdKyah286ShMflnV2SonnrSFH4OAT/52Jy8qqnoerg==
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
@@ -8326,10 +8390,23 @@ vuepress-plugin-mailchimp@^1.4.1:
     jsonp "^0.2.1"
     query-string "^6.9.0"
 
+vuepress-plugin-nest@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-nest/-/vuepress-plugin-nest-1.0.2.tgz#842e890ea4e42de7d382ae645e3e66611cfd7020"
+  integrity sha512-6JqBiXW4g4trb1fKbuFAPGv0RpzBjLhBQFGlA3juAWyE4/lrZIsRHf0dT8s72Mqh3T00NpDFqIIAQzvwTONpXQ==
+  dependencies:
+    add-dom-event-listener "^1.1.0"
+    canvas-nest.js "^2.0.4"
+
 vuepress-plugin-reading-progress@^1.0.9:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-reading-progress/-/vuepress-plugin-reading-progress-1.0.9.tgz#800cef1ed93abe9ab7aae0147d269d1b1359ef32"
   integrity sha512-Ge4SmKIjIwStwqx2ZupEVQfcgOBJsx5Wnxmbst1yMBV6J7bJi5sqBzlQtjNIYWZRNfqengjK3xBIRFKnk1TwyA==
+
+vuepress-plugin-ribbon@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-ribbon/-/vuepress-plugin-ribbon-1.0.0.tgz#052e9ff0ad3b2b76da9a050b6ae17a6c60b0a39a"
+  integrity sha512-x1tlmMgo+KbAI/jXoLAbze7qZuH+9uZwZgvVYd6vPdQKXtvFqq8qxbRGF1MMdGBTTbpMP0zwfkqmqUVe1KLbLw==
 
 vuepress-plugin-sitemap@^2.3.1:
   version "2.3.1"

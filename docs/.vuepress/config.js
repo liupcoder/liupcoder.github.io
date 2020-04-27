@@ -11,49 +11,21 @@ const sidebar = {
 }
 
 const nav = [
-  { text: "时轴", link: "/timeline/", icon: "reco-date" },
+  { text: "时间线", link: "/timeline/", icon: "reco-date" },
   {
-    text: '每日',
+    text: '每日一题',
     icon: 'reco-other',
     link: '/views/interview/index.html'
   },
   {
-    text: '文档',
+    text: '知识体系',
     icon: 'reco-document',
-    items: [
-      { text: 'MDN', link: 'https://developer.mozilla.org/zh-CN/#' },
-      { text: 'ES6', link: 'https://es6.ruanyifeng.com/' },
-      { text: 'Vue', link: 'https://cn.vuejs.org/v2/guide/' },
-      { text: 'Vuex', link: 'https://vuex.vuejs.org/zh/' },
-      { text: 'AD Vue', link: 'https://www.antdv.com/docs/vue/introduce-cn/' },
-      { text: 'Flutter', link: 'https://flutterchina.club/docs/' },
-      { text: 'Cocos', link: 'https://docs.cocos.com/creator/manual/zh/' },
-    ]
+    link: '/views/web/2020/前端知识体系汇总.md',
   },
   {
-    text: '工具',
+    text: '常用工具',
     icon: 'reco-blog',
-    items: [
-      {
-        text: '在线快捷', items: [
-          { text: '代码格式化', link: 'https://tool.oschina.net/codeformat/html' },
-          { text: '编码转换', link: 'http://tool.chinaz.com/tools/unicode.aspx' },
-          { text: 'Babel', link: 'https://www.babeljs.cn/repl' },
-          { text: 'PDF转换', link: 'https://smallpdf.com/cn/pdf-to-word' },
-          { text: 'MD编辑器', link: 'https://www.zybuluo.com/mdeditor' },
-          { text: 'MD表格生成', link: 'https://tableconvert.com/?output=text' },
-          { text: 'HTML2MD', link: 'https://tool.lu/markdown/' },
-          { text: '二维码生成', link: 'https://cli.im/' },
-          { text: '图标库', link: ' https://www.iconfont.cn/' },
-        ],
-      },
-      {
-        text: '在线服务', items: [
-          { text: 'BOOT CDN', link: 'https://www.bootcdn.cn/' },
-          { text: '微信 CDN', link: 'https://qydev.weixin.qq.com/cdn/cdnjs.html' },
-        ],
-      },
-    ]
+    link: '/views/web/2020/常用工具.md'
   },
   // 
   { text: 'GitHub', link: 'https://github.com/liupcoder/', icon: 'reco-github' }
@@ -89,21 +61,56 @@ module.exports = {
     // record: '鲁ICP备19062075号-1',
     blogConfig: {
       category: {
-        location: 2, // 在导航栏菜单中所占的位置，默认2
+        location: 1, // 在导航栏菜单中所占的位置，默认2
         text: "分类" // 默认 “分类”
       },
       tag: {
-        location: 3, // 在导航栏菜单中所占的位置，默认3
+        location: 2, // 在导航栏菜单中所占的位置，默认3
         text: "标签" // 默认 “标签”
       }
     },
     nav,
     sidebar
   },
-  // markdown: {
-  //   "lineNumbers": false
-  // },
+  markdown: {
+    "lineNumbers": false,
+    // markdown 插件
+    extendMarkdown: md => {
+      md.set({ html: true });
+      md.use(require("@iktakahiro/markdown-it-katex"));
+      md.use(require("markdown-it-mark"));
+      md.use(require("markdown-it-task-lists"));
+      md.use(require("markdown-it-vuepress-code-snippet-enhanced"));
+    }
+  },
   plugins: [
+    '@vuepress-reco/extract-code',
+    ['@vuepress/medium-zoom', true],
+    // 开启 PWA
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
+    // 彩带背景
+    //  [
+    //   "ribbon",
+    //   {
+    //     size: 90,
+    //     opacity: 0.8,
+    //     zIndex: -1
+    //   }
+    // ],
+    ['nest', {
+      color: '139,56,240', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+      pointColor: '0,0,0', // color of points, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+      opacity: 0.5, // the opacity of line (0~1), default: 0.5.
+      count: 99, // the number of lines, default: 99.
+      zIndex: -1, // z-index property of the background, default: -1.
+      showInMobile: false // whether to display on the mobile side, default: false.
+    }],
     ["flowchart"], // 支持流程图
     ["vuepress-plugin-smooth-scroll"], // 平滑滚动
     ["@vuepress/nprogress"], // 加载进度条
