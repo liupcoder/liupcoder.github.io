@@ -4,6 +4,7 @@ const sidebar = {
       title: '每日一题',
       collapsable: true,
       children: [
+        '',
         '200427',
       ]
     }
