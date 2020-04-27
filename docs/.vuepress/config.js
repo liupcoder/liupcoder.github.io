@@ -85,6 +85,7 @@ module.exports = {
     type: "blog", //选择类型博客
     author: "LP",
     authorAvatar: '/avatar.jpg',
+    record: '鲁ICP备19062075号-1',
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
