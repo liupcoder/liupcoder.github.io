@@ -4,7 +4,7 @@ date: 2020-04-27
 ---
 
 ## 问题
-```
+```javascript
 class Animal {
 	constructor(type) {
 		this.type = type;
@@ -40,7 +40,7 @@ Uncaught TypeError: dog.walk is not a function
 :::
 ### ES5 写法
 
-```
+```javascript
 let Animal = function(type) {
     this.type = type;
 }

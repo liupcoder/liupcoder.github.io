@@ -5,7 +5,8 @@ const sidebar = {
       collapsable: true,
       children: [
         '',
-        '200427',
+        'ES6类的理解',
+        '伪数组转数组'
       ]
     }
   ]
@@ -57,7 +58,7 @@ module.exports = {
   mode: 'light',
   themeConfig: {
     type: "blog", //选择类型博客
-    author: "LP",
+    author: "Mr L",
     authorAvatar: '/avatar.jpg',
     // record: '鲁ICP备19062075号-1',
     blogConfig: {
@@ -85,25 +86,20 @@ module.exports = {
     }
   },
   plugins: [
-    '@vuepress-reco/extract-code',
-    ['@vuepress/medium-zoom', true],
-    // 开启 PWA
+    ["flowchart"], // 支持流程图
+    ["vuepress-plugin-smooth-scroll"], // 平滑滚动
+    ["@vuepress/nprogress"], // 加载进度条
+    ["reading-progress"], // 阅读进度条
+    ['@vuepress/medium-zoom',
+      {
+        selector: '.theme-reco-content img',
+      }],
     [
       '@vuepress/pwa',
       {
         serviceWorker: true,
         updatePopup: true,
-      },
-    ],
-    // 彩带背景
-    //  [
-    //   "ribbon",
-    //   {
-    //     size: 90,
-    //     opacity: 0.8,
-    //     zIndex: -1
-    //   }
-    // ],
+      }],
     ['nest', {
       color: '139,56,240', // color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
       pointColor: '0,0,0', // color of points, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
@@ -112,16 +108,11 @@ module.exports = {
       zIndex: -1, // z-index property of the background, default: -1.
       showInMobile: false // whether to display on the mobile side, default: false.
     }],
-    ["flowchart"], // 支持流程图
-    ["vuepress-plugin-smooth-scroll"], // 平滑滚动
-    ["@vuepress/nprogress"], // 加载进度条
     ["vuepress-plugin-nuggets-style-copy", {
       copyText: "复制代码",
       tip: {
-          content: "复制成功!"
+        content: "复制成功!"
       }
-  }],
-  // "vuepress-plugin-boxx",
-    ["reading-progress"] // 阅读进度条
+    }]
   ],
 }
