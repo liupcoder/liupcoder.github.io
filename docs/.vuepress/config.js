@@ -58,7 +58,7 @@ module.exports = {
   mode: 'light',
   themeConfig: {
     type: "blog", //选择类型博客
-    author: "Mr L",
+    author: "Mr.L",
     authorAvatar: '/avatar.jpg',
     // record: '鲁ICP备19062075号-1',
     blogConfig: {
