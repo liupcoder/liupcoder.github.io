@@ -60,6 +60,7 @@ module.exports = {
     type: "blog", //选择类型博客
     author: "Mr.L",
     authorAvatar: '/avatar.jpg',
+    themePicker: false,
     // record: '鲁ICP备19062075号-1',
     blogConfig: {
       category: {
@@ -71,6 +72,10 @@ module.exports = {
         text: "标签" // 默认 “标签”
       }
     },
+    // valineConfig: {
+    //   appId: 'tfpiDn8iGKhuNhhz4orM5wXv-9Nh9j0Va', // your appId
+    //   appKey: 'UpHN2QkGOkCb6rFdX5lsYUD4', // your appKey
+    // },
     nav,
     sidebar
   },

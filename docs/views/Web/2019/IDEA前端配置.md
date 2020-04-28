@@ -7,7 +7,11 @@ categories:
  - 前端
 sidebar: auto
 ---
-# IDEA 中前端优化 （ES6 to ES5 js压缩混淆 css预编译 css 压缩）
+
+:::tip
+**IDEA 中前端优化 （ES6 to ES5 js压缩混淆 css预编译 css 压缩）**
+:::
+
 ES6 to ES5，js压缩混淆是基于node环境进行，在进行操作前需先安装node环境。这里不做详细介绍。
 
 [菜鸟教程Node.js 安装配置](https://www.runoob.com/nodejs/nodejs-install-setup.html)
