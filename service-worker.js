@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b325895ba371b4a59a01f16b7f73708d"
+    "revision": "0fb7d1f8de1f30f1a4fd565dce67061e"
   },
   {
     "url": "assets/css/0.styles.cb7afac4.css",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "4ba2948587f770e90fa87cf9d6063ad8"
   },
   {
-    "url": "assets/js/13.74e5bf6d.js",
-    "revision": "93b941acf979416d98c8a535aa7d1677"
+    "url": "assets/js/13.208414e0.js",
+    "revision": "1b8bbed6aee3619e1d0649ce9bcce65c"
   },
   {
     "url": "assets/js/14.e44bc059.js",
@@ -74,8 +74,8 @@ self.__precacheManifest = [
     "revision": "554843cb8f9907b18594d9d8eeeef734"
   },
   {
-    "url": "assets/js/18.4d53ef35.js",
-    "revision": "a18a6bc295d718090ef7c594ccf10532"
+    "url": "assets/js/18.e98c2b32.js",
+    "revision": "113c73823e8093e0d4d1386b190f49b3"
   },
   {
     "url": "assets/js/19.13295867.js",
@@ -122,8 +122,8 @@ self.__precacheManifest = [
     "revision": "76393824282440aadbfb49958599cad4"
   },
   {
-    "url": "assets/js/app.4fe7b96e.js",
-    "revision": "f5fffd38608d93275ccfb6cd082390c5"
+    "url": "assets/js/app.273ce70f.js",
+    "revision": "a726e49613b5cb49f3afbf1beeb26c2b"
   },
   {
     "url": "assets/js/vendors~flowchart.b17edc10.js",
@@ -143,79 +143,79 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "7e42615b9ccb3a512cb4e070b7efb1db"
+    "revision": "c02c5ec4c8f72047eb58d5cb50e40da3"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "5085dfc8868abc153d271b7a64893388"
+    "revision": "555f009f12b2ef60ece9207c21ac1e3a"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "770c636844c3daad9f1a5636a7f63965"
+    "revision": "ea026b8f38c8c4cf1afe757cfa19ca46"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "f1c5bf09e81bbde7a30b4fe051726b72"
+    "revision": "895b1c4a4711f4a11031654ee3502337"
   },
   {
     "url": "index.html",
-    "revision": "1d1e2b78820c8f3a5c188cb0b2341593"
+    "revision": "85a59e4a15b9af8d7e251f3c8e14dc2a"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "911df5a892fa68b29e8f09ea7341180f"
+    "revision": "00f61e913836e4effc3020cb9e89f54b"
   },
   {
     "url": "tag/index.html",
-    "revision": "dc2f2c03913d33ee024e944431cacc13"
+    "revision": "c090f7717ca0705b240ec46b0e345dff"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "c37af78899143c067ebb1ed4b54205c3"
+    "revision": "43cdb12375011206c8e8d9f6aeb29e85"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "0fd24c35a7dd0f2734bda7e54ebafa04"
+    "revision": "6a672aa143c4f85bcccf4a8e57b530f6"
   },
   {
     "url": "timeline/index.html",
-    "revision": "8403936c319c4d1d5dcc469a274545d8"
+    "revision": "16d95e0dd9e8ed8136891d2f01f88c9b"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "28c049b49720e1c10e28e7e9fc1c70e4"
+    "revision": "963ff0b99b9fabb33e67597fcb0ef108"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "4414159ea1af7135f5570ad8c3fc1c4a"
+    "revision": "e8a6981604f6b50c56ff320f3df494e1"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "e97020f620f3ae65c5c6cfb7ed615068"
+    "revision": "4aa1488ea53086961cbc7f851796fc8d"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "18de6f3e68bda386322f6f899c18b55b"
+    "revision": "23376b81e50b84d1f3c50824f76c3141"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "a7a2c587e9072ed76b2411f0d07d9b7c"
+    "revision": "460e3adc71ba33d326e34661d752432a"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "440527facd5dd8a977c5bc35cafc837b"
+    "revision": "6d45c2945306a6356a0760f3dbb59bc5"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "0c8102beeca17d367e2d191c06f75dbd"
+    "revision": "680c136c4ccdcdd5e56fb641d7969a34"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "adf2e59ab7c0a4df2e858a53e9b3b20f"
+    "revision": "868790d56445dc99bcd24486267cddc6"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "5bf127555d804b57d16ed2f94ad5edcf"
+    "revision": "565cebf597aa732d6c8a32ad208a6116"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
