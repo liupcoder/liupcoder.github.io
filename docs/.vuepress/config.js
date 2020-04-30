@@ -6,7 +6,8 @@ const sidebar = {
       children: [
         '',
         'ES6类的理解',
-        '伪数组转数组'
+        '伪数组转数组',
+        '变量声明'
       ]
     }
   ]
@@ -72,10 +73,10 @@ module.exports = {
         text: "标签" // 默认 “标签”
       }
     },
-    // valineConfig: {
-    //   appId: 'tfpiDn8iGKhuNhhz4orM5wXv-9Nh9j0Va', // your appId
-    //   appKey: 'UpHN2QkGOkCb6rFdX5lsYUD4', // your appKey
-    // },
+    valineConfig: {
+      appId: 'tfpiDn8iGKhuNhhz4orM5wXv-9Nh9j0Va', // your appId
+      appKey: 'UpHN2QkGOkCb6rFdX5lsYUD4', // your appKey
+    },
     nav,
     sidebar
   },
