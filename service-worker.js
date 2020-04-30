@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "600d4b3e1b7e22053bd1ab7ea5f162f4"
+    "revision": "72fa85ce9a905da65d3614ec20c044f2"
   },
   {
     "url": "assets/css/0.styles.cb7afac4.css",
@@ -126,8 +126,8 @@ self.__precacheManifest = [
     "revision": "76393824282440aadbfb49958599cad4"
   },
   {
-    "url": "assets/js/app.88fa56a9.js",
-    "revision": "83669ccf2ff3f08f3909089cb21b27db"
+    "url": "assets/js/app.7fcb8336.js",
+    "revision": "d38cef9903a6b05bd7ceb925bb0b005a"
   },
   {
     "url": "assets/js/vendors~flowchart.b17edc10.js",
@@ -147,83 +147,83 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "f4e1c7bd3a8b5f104e035fb6fc5694ab"
+    "revision": "26aef4b8abfac08b972e8f9d6b1ea07f"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "72d68098eb9e8d5d21af9126b166707e"
+    "revision": "27c1bc0b26d7cbcab97cbe7c52e54730"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "c6d1698bb4380a8cbcd905dbed597fe9"
+    "revision": "0450b755f409abd0b34ccb3e98873acc"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "b05277e3909efde28f7eda8f4888e2ac"
+    "revision": "8165f93d21adc523734bc037d1d73fdc"
   },
   {
     "url": "index.html",
-    "revision": "30e73be11019415721788892217c83e9"
+    "revision": "639c6af8fe9dbe1f633c3b2be0ec7d0c"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "c83693493cddb9adbede1bba6c03452e"
+    "revision": "789732518ab25611d0610b3da0f9d297"
   },
   {
     "url": "tag/index.html",
-    "revision": "93ae9d18eb5997d697008c2094fe7a38"
+    "revision": "f1f17e9452bc4ccaabab4a172d89ffb9"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "b056492da9531e14e29b3dc4190bddef"
+    "revision": "2e00c76e6f3df35ed8b2c7c3da8abc27"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "dd1920767452da6939d3dff0a3a6717b"
+    "revision": "d4596246bf70f542a4843905a0c75530"
   },
   {
     "url": "timeline/index.html",
-    "revision": "a72699f540ba053e02adfde6335353fa"
+    "revision": "957692c1c879582efde47855c5ef7807"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "30e4831aa32804bf1fe77cf5e6200978"
+    "revision": "34986251385bc8975a7223d2969a0653"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "40972811bf0e6eddc8b13f676001c6a8"
+    "revision": "e1c6391219f70e69896e15aaf69d2206"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "8a283811bc31b68b163c9e2835f72093"
+    "revision": "743c06e659a17e5886aa74501e3dbf55"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "4b1f2d6f63c90a7c6dca3bc3ca59170c"
+    "revision": "8474b0485b83815be26cb6b5b9fa4982"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "cc85fd9314650dc42837d217ce6b8a40"
+    "revision": "3ebb462f49ac912a0f2dbf99b9311f0f"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "8d127fc6ce5c981ff4c9d9a3251df18d"
+    "revision": "c3bf962eddd3489b3de0dc9e2b040e82"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "88ea2e0eb4cecbb3684633ecf9b8a20c"
+    "revision": "01e45519482b9948b6844df165905e57"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "ffea2e097c098a11213182332fc7faa5"
+    "revision": "9fd8784a64c790ed1420f1f9b3ef9806"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "16949d124dffeb0f41c85841e25cd620"
+    "revision": "681f8184a8890af3aae77797cc600b72"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "76b6b30932112a3cd569075fea0a839f"
+    "revision": "917699efee1bdee823fb0fd387614993"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
