@@ -74,8 +74,8 @@ module.exports = {
       }
     },
     valineConfig: {
-      appId: 'tfpiDn8iGKhuNhhz4orM5wXv-9Nh9j0Va', // your appId
-      appKey: 'UpHN2QkGOkCb6rFdX5lsYUD4', // your appKey
+      appId: 'k3eGSbXaV6KFc8i6qe4ugLXo-MdYXbMMI', // your appId
+      appKey: 'IzrQqHM5YEhiNGOCEuAmEitd', // your appKey
     },
     nav,
     sidebar
