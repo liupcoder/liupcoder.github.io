@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "72fa85ce9a905da65d3614ec20c044f2"
+    "revision": "76bff2396285f6866130ea807f9e86f6"
   },
   {
     "url": "assets/css/0.styles.cb7afac4.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "51b62b14024c8e845da9cbf1eb4cd2d8"
   },
   {
-    "url": "assets/js/11.bed814ba.js",
-    "revision": "847d891fc85567e1f990e8f2a2b63971"
+    "url": "assets/js/11.96d9eabd.js",
+    "revision": "75ae2cacae589a270050e3e74f805dd2"
   },
   {
     "url": "assets/js/12.04f3c2b2.js",
@@ -86,20 +86,24 @@ self.__precacheManifest = [
     "revision": "5eb138b30a0c73c30b83010cb6f362b6"
   },
   {
-    "url": "assets/js/21.1b19b292.js",
-    "revision": "a981474b2c12aa71da352498698617ba"
+    "url": "assets/js/21.f8c9ac39.js",
+    "revision": "3989eab5ad3769f285f48fce508db812"
   },
   {
-    "url": "assets/js/22.3e891c6c.js",
-    "revision": "a54861916761f78200c8ce214454409b"
+    "url": "assets/js/22.2b9f126a.js",
+    "revision": "3b7cbcf2c86340024386c159612735fb"
   },
   {
-    "url": "assets/js/23.9fbde19f.js",
-    "revision": "30212aaaf9a5503665f296a6362346db"
+    "url": "assets/js/23.a2fbf9b7.js",
+    "revision": "759b6270a0567b89599ae2b1b2790c3b"
   },
   {
-    "url": "assets/js/24.3c3a9ac0.js",
-    "revision": "ebc1deca53b4191ffe416927754f31ae"
+    "url": "assets/js/24.6580b242.js",
+    "revision": "72ce26e9d110938a73c67ec62446ee86"
+  },
+  {
+    "url": "assets/js/25.34b4027c.js",
+    "revision": "4bfed8da9bcdc9b69447f2f3bf6ff0bc"
   },
   {
     "url": "assets/js/4.16f01978.js",
@@ -126,8 +130,8 @@ self.__precacheManifest = [
     "revision": "76393824282440aadbfb49958599cad4"
   },
   {
-    "url": "assets/js/app.7fcb8336.js",
-    "revision": "d38cef9903a6b05bd7ceb925bb0b005a"
+    "url": "assets/js/app.24ce56f9.js",
+    "revision": "aa200ec0c1285b06eafa15619160577f"
   },
   {
     "url": "assets/js/vendors~flowchart.b17edc10.js",
@@ -147,83 +151,87 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "26aef4b8abfac08b972e8f9d6b1ea07f"
+    "revision": "93b26b86fafa8033155f00407a8c2293"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "27c1bc0b26d7cbcab97cbe7c52e54730"
+    "revision": "72020105f778bc4d71be10d00e2ebf84"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "0450b755f409abd0b34ccb3e98873acc"
+    "revision": "8ae8417258e3fbe1ef162455cf05b9bd"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "8165f93d21adc523734bc037d1d73fdc"
+    "revision": "1cc55a67b4b544daf9bc168293b664bd"
   },
   {
     "url": "index.html",
-    "revision": "639c6af8fe9dbe1f633c3b2be0ec7d0c"
+    "revision": "0cc11338715d49593a924ed1c694c8d9"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "789732518ab25611d0610b3da0f9d297"
+    "revision": "939641b78bc9d59961a91b4a138398ed"
   },
   {
     "url": "tag/index.html",
-    "revision": "f1f17e9452bc4ccaabab4a172d89ffb9"
+    "revision": "7304316734658f1c7917e3b79e81cccc"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "2e00c76e6f3df35ed8b2c7c3da8abc27"
+    "revision": "4d3f1b5c1fc40ed47e919f720ee143c5"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "d4596246bf70f542a4843905a0c75530"
+    "revision": "5e588ee59141e8a9716309c966522928"
   },
   {
     "url": "timeline/index.html",
-    "revision": "957692c1c879582efde47855c5ef7807"
+    "revision": "9a7cd3bab92460adc5ce439980ab8609"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "34986251385bc8975a7223d2969a0653"
+    "revision": "e3d04fdd82551abcde52bcde3ed23e9a"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "e1c6391219f70e69896e15aaf69d2206"
+    "revision": "f0bee6d7234cf833d7b053addb6fc0f1"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "743c06e659a17e5886aa74501e3dbf55"
+    "revision": "79d80c478b1dc0ca48d36df918e3aa1d"
+  },
+  {
+    "url": "views/interview/webpack构建后this指向.html",
+    "revision": "420feb8b0e78b46cc7cf02a856600aa9"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "8474b0485b83815be26cb6b5b9fa4982"
+    "revision": "1c33dfdf3381fd093ee912e2b406c1ff"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "3ebb462f49ac912a0f2dbf99b9311f0f"
+    "revision": "d71b9b3eda0402ab5bee13c2c104f338"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "c3bf962eddd3489b3de0dc9e2b040e82"
+    "revision": "3a6040be22b7a129acbab10205aa5ff2"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "01e45519482b9948b6844df165905e57"
+    "revision": "1259dc943b0ede4ff5df3e02bd4db693"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "9fd8784a64c790ed1420f1f9b3ef9806"
+    "revision": "d389c43edfd21de546b1c13e98b69d58"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "681f8184a8890af3aae77797cc600b72"
+    "revision": "80ce8c227c823e742e1022be2cbefef5"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "917699efee1bdee823fb0fd387614993"
+    "revision": "82a0f4258562b2bf24bfb6e9f9a98b26"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
