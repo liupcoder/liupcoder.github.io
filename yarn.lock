@@ -8195,6 +8195,18 @@ valine@1.4.4:
     storejs "^1.0.25"
     xss "^1.0.6"
 
+valine@^1.4.14:
+  version "1.4.14"
+  resolved "https://registry.yarnpkg.com/valine/-/valine-1.4.14.tgz#771d103c0b87cb7aa2f0b6a4ad65cae795c92f3b"
+  integrity sha512-1gVRXZUDqzTt2I43xivOotXchGdYCCW+Av+laXImzcUVI3DrGR4AQbh3LbDsFpZq+N26u+p+qzB9mjliLYO3YQ==
+  dependencies:
+    balajs "^1.0.7"
+    balalaika "^1.0.1"
+    element-closest "^3.0.2"
+    leancloud-storage "^3.0.4"
+    storejs "^1.0.25"
+    xss "^1.0.6"
+
 valine@^1.4.4:
   version "1.4.9"
   resolved "https://registry.yarnpkg.com/valine/-/valine-1.4.9.tgz#063d9fafa815e9b12fa1d75c7530eca5e5bf4bf2"
