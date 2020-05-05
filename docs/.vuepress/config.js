@@ -63,7 +63,8 @@ module.exports = {
     type: "blog", //选择类型博客
     author: "Mr.L",
     authorAvatar: '/avatar.jpg',
-    themePicker: false,
+    mode: 'light',
+    modePicker: false,
     // record: '鲁ICP备19062075号-1',
     blogConfig: {
       category: {
