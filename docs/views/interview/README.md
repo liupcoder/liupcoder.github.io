@@ -1,6 +1,7 @@
 ---
 title: 每日一题
 date: 2020-04-27
+isShowComments: false
 ---
 
 ::: tip
