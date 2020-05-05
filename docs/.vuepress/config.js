@@ -32,7 +32,6 @@ const nav = [
     icon: 'reco-blog',
     link: '/views/web/2020/常用工具.md'
   },
-  // 
   { text: 'GitHub', link: 'https://github.com/liupcoder/', icon: 'reco-github' }
 ]
 
@@ -58,7 +57,6 @@ module.exports = {
     ]
   ],
   theme: "reco",
-  mode: 'light',
   themeConfig: {
     type: "blog", //选择类型博客
     author: "Mr.L",
@@ -106,7 +104,7 @@ module.exports = {
     [
       '@vuepress/pwa',
       {
-        serviceWorker: false,
+        serviceWorker: true,
         updatePopup: true,
       }],
     ['nest', {
