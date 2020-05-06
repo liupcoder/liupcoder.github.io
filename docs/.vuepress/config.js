@@ -9,7 +9,8 @@ const sidebar = {
         '伪数组转数组',
         '变量声明',
         'webpack构建后this指向',
-        'ES6中this指向'
+        'ES6中this指向',
+        'Object.assign()'
       ]
     }
   ]

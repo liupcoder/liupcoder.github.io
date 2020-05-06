@@ -1,6 +1,6 @@
 ---
 title: ES6中this指向
-date: 2020-05-06
+date: 2020-05-05
 ---
 
 :::tip
