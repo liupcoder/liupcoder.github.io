@@ -5,12 +5,12 @@ const sidebar = {
       collapsable: true,
       children: [
         '',
-        'ES6类的理解',
-        '伪数组转数组',
-        '变量声明',
-        'webpack构建后this指向',
+        'Object.assign()',
         'ES6中this指向',
-        'Object.assign()'
+        'webpack构建后this指向',
+        '变量声明',
+        '伪数组转数组',
+        'ES6类的理解',
       ]
     }
   ]
