@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "daa416a24e6ae061912caa3667bbf473"
+    "revision": "3a78826d4819b3075285ff485cddddaf"
   },
   {
     "url": "assets/css/0.styles.cb7afac4.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "51b62b14024c8e845da9cbf1eb4cd2d8"
   },
   {
-    "url": "assets/js/11.93ea6c53.js",
-    "revision": "2958c890196d5786bafeb249bc896b75"
+    "url": "assets/js/11.bc825c4e.js",
+    "revision": "054a9af8dd8215fa4919294e5fadd555"
   },
   {
     "url": "assets/js/12.04f3c2b2.js",
@@ -82,36 +82,40 @@ self.__precacheManifest = [
     "revision": "dde6d3d6218477c076ca5e8eac879dc2"
   },
   {
-    "url": "assets/js/20.fb8cde9d.js",
-    "revision": "bbc1279066dfa3d6a52397bd285d13f1"
+    "url": "assets/js/20.15c8dbbb.js",
+    "revision": "67ce385e457d9c0bc9d966e2a0a806cc"
   },
   {
-    "url": "assets/js/21.dac882eb.js",
-    "revision": "0f40d2436974ca44f1100e79a617785f"
+    "url": "assets/js/21.53fc72fb.js",
+    "revision": "a2047bb42ab312d30033ab30e6d1a46b"
   },
   {
-    "url": "assets/js/22.166fa987.js",
-    "revision": "7969648c84264776e8772f65a76b8e23"
+    "url": "assets/js/22.1aea5996.js",
+    "revision": "ce3af06f02854f5decf172dd403aa5a4"
   },
   {
-    "url": "assets/js/23.0311132e.js",
-    "revision": "6f8e36db5583794db136ad282be1a3d7"
+    "url": "assets/js/23.124dcb3d.js",
+    "revision": "180dcd5f6232aac1740392d8cfffcc0d"
   },
   {
-    "url": "assets/js/24.8615fdff.js",
-    "revision": "c8cde200cd23a7f488a0bf6f8ab4d511"
+    "url": "assets/js/24.84d73300.js",
+    "revision": "da7328c81d6ff5d9b1d13b5386b4f85b"
   },
   {
-    "url": "assets/js/25.94e7ca00.js",
-    "revision": "f5dc7b6c21b91cf41976af01394307f6"
+    "url": "assets/js/25.740ec960.js",
+    "revision": "0c305786ab7600ab805a9e262dd06860"
   },
   {
-    "url": "assets/js/26.7e1e126d.js",
-    "revision": "b291a5573ce61eef649a560bd4e32fe1"
+    "url": "assets/js/26.d09ccf19.js",
+    "revision": "01cba5412ef85430494d0e6de7bba55d"
   },
   {
-    "url": "assets/js/27.02d5ca69.js",
-    "revision": "f80928253d008ae381442c3422e0c323"
+    "url": "assets/js/27.e19dcc39.js",
+    "revision": "ad0ac97d3c7f8c41b8febcdb1b552820"
+  },
+  {
+    "url": "assets/js/28.22b44994.js",
+    "revision": "eae036bb4de6a9e3e0064b1743e6ef55"
   },
   {
     "url": "assets/js/4.16f01978.js",
@@ -138,8 +142,8 @@ self.__precacheManifest = [
     "revision": "76393824282440aadbfb49958599cad4"
   },
   {
-    "url": "assets/js/app.9bd26c54.js",
-    "revision": "a36fd7ccc3471133c9d6f3745ff1e200"
+    "url": "assets/js/app.2971d89b.js",
+    "revision": "de860d048aef42ee06c9ea3122744b5c"
   },
   {
     "url": "assets/js/vendors~flowchart.b17edc10.js",
@@ -159,95 +163,99 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "41e3825db0d6af6c238dc9b694c420bd"
+    "revision": "9687fab50659fce33b8c76a4ef431116"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "085805f5572d1cf8d8eda93c9f3d3153"
+    "revision": "a1e044441bb348196391a8b7425ee695"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "96f60f36f9e9e46f2942406556a59cd0"
+    "revision": "d0d2d41de0df1eb58bd03f6b45c007cb"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "fd8094b7d834f261dbb9b02ed9ca8823"
+    "revision": "c44feb2f94a94fecbaf63f10e8f9e098"
   },
   {
     "url": "index.html",
-    "revision": "1bf4471b0842ad75f5ee51498366c8b2"
+    "revision": "2e863ca084acba7194558163b04e6996"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "c63ae0092d3a4af916e6cbd21373c1ba"
+    "revision": "8b99d9b1fef37e4ad2288fec75bbb871"
   },
   {
     "url": "tag/index.html",
-    "revision": "a8e5d69d4fc45692ed7cba3773c330cd"
+    "revision": "2d157594be1cd2ffc507d6fe4ee0fcfd"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "c59fe976ee5ccbe40952c5f327df9538"
+    "revision": "fb08b60f193e6f14eab80f3707bfaa84"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "ce348fc01edc1421e2cca50b6557d4a6"
+    "revision": "9213a94ca1d2516d3e4b6cd7d635567e"
   },
   {
     "url": "timeline/index.html",
-    "revision": "2a01cbfe509403bcadae02cd8c5ffbab"
+    "revision": "49e6fc8dee34c437613dba87a2b657b2"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "f379c0b4d0c664bb143aa0d9d0d2b6df"
+    "revision": "214489ab3c7beaff0679d8c76c39fa65"
   },
   {
     "url": "views/interview/ES6中this指向.html",
-    "revision": "1697b862eb750a11d235f271cdf909a6"
+    "revision": "4abd9790f57d756c4393d7e4fb71a65e"
+  },
+  {
+    "url": "views/interview/ES6模板字符串.html",
+    "revision": "0943d7743e4468d1a8eb92de990a774a"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "14414132d77089d06a373455c7f84834"
+    "revision": "9d17f6d992fc4bef62e05242638b0728"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "997935a5349393b8138e277911fec14f"
+    "revision": "f6352141610fc4dd767bdaf71e3ff260"
   },
   {
     "url": "views/interview/Object.assign().html",
-    "revision": "e3cd4a79336e271485392a60b63ccf35"
+    "revision": "ba04064d15f3ddbac424e163cedc5325"
   },
   {
     "url": "views/interview/webpack构建后this指向.html",
-    "revision": "ee971b737d07e0afb19a7c0aabc60b8a"
+    "revision": "b1e5fd0add1022817f25c8f35c172f89"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "fb8208f45a6b98665e732dea3f68b954"
+    "revision": "cd7c6b215c21534e4e3d2c8ed5f631d1"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "8478f807132c54e58a3af0fa5eeff398"
+    "revision": "e0b9a7643dc6e5455d0da024a6f6f5ea"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "721d442c6248183e29ea4fea10f4ea56"
+    "revision": "798dbc4c184e81fbb2fa31f4a9d7ca21"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "f36f4132c2174e2ad2bf81220354220e"
+    "revision": "1db918a1b92b9a79a1c7b6ca3a06e1c1"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "2013c70736c3de9e35409fd013d67ca9"
+    "revision": "dbc1b881006892ef54be444f9d610052"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "4e60097f22abb57161e44da4929e1261"
+    "revision": "827df37f29041caa33ccd3a0c3969429"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "712425b5562df175ac99ae639f868bee"
+    "revision": "961157b9169248aeb573714b90460876"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
