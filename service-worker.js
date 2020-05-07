@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3a78826d4819b3075285ff485cddddaf"
+    "revision": "3608cb1718c2859f2a287d3ea516b61a"
   },
   {
     "url": "assets/css/0.styles.cb7afac4.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "51b62b14024c8e845da9cbf1eb4cd2d8"
   },
   {
-    "url": "assets/js/11.bc825c4e.js",
-    "revision": "054a9af8dd8215fa4919294e5fadd555"
+    "url": "assets/js/11.8a26b863.js",
+    "revision": "152606ab3fc028dfda511108daab1a7f"
   },
   {
     "url": "assets/js/12.04f3c2b2.js",
@@ -70,52 +70,64 @@ self.__precacheManifest = [
     "revision": "658c440c4fe3350728edc9cf69960dc9"
   },
   {
-    "url": "assets/js/17.3434b8d5.js",
-    "revision": "554843cb8f9907b18594d9d8eeeef734"
+    "url": "assets/js/17.1e3547e0.js",
+    "revision": "3b996c68cc9461ee1cc93d522b37b33b"
   },
   {
-    "url": "assets/js/18.e98c2b32.js",
-    "revision": "113c73823e8093e0d4d1386b190f49b3"
+    "url": "assets/js/18.9bcab559.js",
+    "revision": "237f19cf52e88c69969a235a577d0f72"
   },
   {
-    "url": "assets/js/19.672cca25.js",
-    "revision": "dde6d3d6218477c076ca5e8eac879dc2"
+    "url": "assets/js/19.93dc7cf8.js",
+    "revision": "5bf117e13141c62b90440f023efb233e"
   },
   {
-    "url": "assets/js/20.15c8dbbb.js",
-    "revision": "67ce385e457d9c0bc9d966e2a0a806cc"
+    "url": "assets/js/20.6bd85b5b.js",
+    "revision": "9d59620908eb6d25a66f9e41fbe19271"
   },
   {
-    "url": "assets/js/21.53fc72fb.js",
-    "revision": "a2047bb42ab312d30033ab30e6d1a46b"
+    "url": "assets/js/21.2b076dcf.js",
+    "revision": "ad2f365034150c0b03e8c9a23e8e8532"
   },
   {
-    "url": "assets/js/22.1aea5996.js",
-    "revision": "ce3af06f02854f5decf172dd403aa5a4"
+    "url": "assets/js/22.0033d27d.js",
+    "revision": "4699874a69e48a1775a19dbcc7c528ea"
   },
   {
-    "url": "assets/js/23.124dcb3d.js",
-    "revision": "180dcd5f6232aac1740392d8cfffcc0d"
+    "url": "assets/js/23.58647e40.js",
+    "revision": "1084a8c9ab661b9948a6b88032a4f0b4"
   },
   {
-    "url": "assets/js/24.84d73300.js",
-    "revision": "da7328c81d6ff5d9b1d13b5386b4f85b"
+    "url": "assets/js/24.6e1ff572.js",
+    "revision": "5e5c3dacc68b24fb4c9aaf2f6048160e"
   },
   {
-    "url": "assets/js/25.740ec960.js",
-    "revision": "0c305786ab7600ab805a9e262dd06860"
+    "url": "assets/js/25.0d029767.js",
+    "revision": "87ae753bf779792b5d114022f5c78773"
   },
   {
-    "url": "assets/js/26.d09ccf19.js",
-    "revision": "01cba5412ef85430494d0e6de7bba55d"
+    "url": "assets/js/26.d380b9ad.js",
+    "revision": "a640f999e2ee2ac66800a517fda49940"
   },
   {
-    "url": "assets/js/27.e19dcc39.js",
-    "revision": "ad0ac97d3c7f8c41b8febcdb1b552820"
+    "url": "assets/js/27.4a85c859.js",
+    "revision": "f35663d9d82d94ca47fbecb69f189389"
   },
   {
-    "url": "assets/js/28.22b44994.js",
-    "revision": "eae036bb4de6a9e3e0064b1743e6ef55"
+    "url": "assets/js/28.3085e41b.js",
+    "revision": "f989dcc6e3de2abfd8beabeb9ecd16cc"
+  },
+  {
+    "url": "assets/js/29.7125c2a6.js",
+    "revision": "9523d784c98a4577e1a3eaedf17e5ee0"
+  },
+  {
+    "url": "assets/js/30.6a33a516.js",
+    "revision": "6eb692a7761dc89963a701c7d983fe1d"
+  },
+  {
+    "url": "assets/js/31.3b633115.js",
+    "revision": "17012d3231f28ec4ce4e5453d4dcd3c2"
   },
   {
     "url": "assets/js/4.16f01978.js",
@@ -142,8 +154,8 @@ self.__precacheManifest = [
     "revision": "76393824282440aadbfb49958599cad4"
   },
   {
-    "url": "assets/js/app.2971d89b.js",
-    "revision": "de860d048aef42ee06c9ea3122744b5c"
+    "url": "assets/js/app.a88de1c5.js",
+    "revision": "656626be3fffc67919c90e7688d49824"
   },
   {
     "url": "assets/js/vendors~flowchart.b17edc10.js",
@@ -163,99 +175,115 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "9687fab50659fce33b8c76a4ef431116"
+    "revision": "5b257691d7eaaca46ae99149b3720fc6"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "a1e044441bb348196391a8b7425ee695"
+    "revision": "9d730280bc6adcdea0723d97940758cb"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "d0d2d41de0df1eb58bd03f6b45c007cb"
+    "revision": "5c35e6dca972a4d0cd72a81e3bfb5263"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "c44feb2f94a94fecbaf63f10e8f9e098"
+    "revision": "5e5deeb1a34d948f5731945d8a498a76"
   },
   {
     "url": "index.html",
-    "revision": "2e863ca084acba7194558163b04e6996"
+    "revision": "ed0d18ee4e13066756101f4bc61cb932"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "8b99d9b1fef37e4ad2288fec75bbb871"
+    "revision": "3ecf2e1cfab377886759705bf2ddb3f1"
   },
   {
     "url": "tag/index.html",
-    "revision": "2d157594be1cd2ffc507d6fe4ee0fcfd"
+    "revision": "1165fb7cac0ef090d040b7472b50e8c4"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "fb08b60f193e6f14eab80f3707bfaa84"
+    "revision": "8924fb0427444aed240def9cd7bdc736"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "9213a94ca1d2516d3e4b6cd7d635567e"
+    "revision": "f4a7fca238b118a45ad92aa00b9975e4"
+  },
+  {
+    "url": "tag/设计模式/index.html",
+    "revision": "90b36310b9cc6eabe2df4df515448ecf"
   },
   {
     "url": "timeline/index.html",
-    "revision": "49e6fc8dee34c437613dba87a2b657b2"
+    "revision": "2a9a7d0a4df2705ca5efda152875491f"
+  },
+  {
+    "url": "views/designPattern/UML类图.html",
+    "revision": "b485fe8b99ca2e9bd70eef7c3de3e75e"
+  },
+  {
+    "url": "views/designPattern/设计原则.html",
+    "revision": "15b5df07821621883c9d58d243bced39"
+  },
+  {
+    "url": "views/designPattern/面向对象.html",
+    "revision": "9c4812a0cd4d222dab2fc0823f01775a"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "214489ab3c7beaff0679d8c76c39fa65"
+    "revision": "b2ce3a2c248ef6e2c77701400178b1e7"
   },
   {
     "url": "views/interview/ES6中this指向.html",
-    "revision": "4abd9790f57d756c4393d7e4fb71a65e"
+    "revision": "7e6de02806cf6974960db16b95b8e794"
   },
   {
     "url": "views/interview/ES6模板字符串.html",
-    "revision": "0943d7743e4468d1a8eb92de990a774a"
+    "revision": "0d7eaae822b9efb52dfaafbaf1813f47"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "9d17f6d992fc4bef62e05242638b0728"
+    "revision": "c79116ba227c3461fde0908710c61d25"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "f6352141610fc4dd767bdaf71e3ff260"
+    "revision": "cc7985b69a4b799223158b24f4ee0d5d"
   },
   {
     "url": "views/interview/Object.assign().html",
-    "revision": "ba04064d15f3ddbac424e163cedc5325"
+    "revision": "0f157be731a8e8b048eca79bd6413139"
   },
   {
     "url": "views/interview/webpack构建后this指向.html",
-    "revision": "b1e5fd0add1022817f25c8f35c172f89"
+    "revision": "dab3e5d60e0a58b102fb74f59688670c"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "cd7c6b215c21534e4e3d2c8ed5f631d1"
+    "revision": "ee813e4ce541bd86c1588656cc44d240"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "e0b9a7643dc6e5455d0da024a6f6f5ea"
+    "revision": "fb298557d3b4903bceb9aeacf0bb442c"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "798dbc4c184e81fbb2fa31f4a9d7ca21"
+    "revision": "b31a73da058ef7507a4bcdc23b1a82f9"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "1db918a1b92b9a79a1c7b6ca3a06e1c1"
+    "revision": "16e653f44b19f61e5955661100dfee62"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "dbc1b881006892ef54be444f9d610052"
+    "revision": "edaa980ceb8fe0fd1ba79c25c8a754a4"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "827df37f29041caa33ccd3a0c3969429"
+    "revision": "845c6baaf7517543a6725e705523c0fa"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "961157b9169248aeb573714b90460876"
+    "revision": "b34ba29501ee14d129ba9f2d13c04c09"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
