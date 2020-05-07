@@ -5,6 +5,7 @@ const sidebar = {
       collapsable: true,
       children: [
         '',
+        'ES6模板字符串',
         'Object.assign()',
         'ES6中this指向',
         'webpack构建后this指向',
