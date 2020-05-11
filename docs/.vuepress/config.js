@@ -96,6 +96,7 @@ module.exports = {
   },
   plugins: [
     ["flowchart"], // 支持流程图
+    '@vuepress-reco/extract-code',
     ["vuepress-plugin-smooth-scroll"], // 平滑滚动
     ["@vuepress/nprogress"], // 加载进度条
     ["reading-progress"], // 阅读进度条
