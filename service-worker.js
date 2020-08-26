@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d77925077a7b07d4697e23aaf564429f"
+    "revision": "3ff9a3645d83747ca8da2c001431d1f2"
   },
   {
     "url": "assets/css/0.styles.132fd356.css",
@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "c3c6eb028334ce0a9b8d431a6f110dd4"
   },
   {
-    "url": "assets/js/33.213bd753.js",
-    "revision": "4fa0d8c8ea5a03a4bf91df0371574ca2"
+    "url": "assets/js/33.445b4e14.js",
+    "revision": "75923bf862d1ba97d0dc866e6d41e75c"
   },
   {
     "url": "assets/js/34.6818b7f1.js",
@@ -230,8 +230,8 @@ self.__precacheManifest = [
     "revision": "59094ae81e76d06deeb03ca9de583961"
   },
   {
-    "url": "assets/js/app.b9e58131.js",
-    "revision": "bde0aef60964af5f8eb6505b6509eaa2"
+    "url": "assets/js/app.d1ebfc44.js",
+    "revision": "c40f35712b9a543768b4fde68fc9c150"
   },
   {
     "url": "assets/js/vendors~flowchart.7b8e9f18.js",
@@ -251,231 +251,231 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "172756e4381755f95ba552acf945b0ad"
+    "revision": "8866e704f3db3b3a1d3aa1d8386267ee"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "fdab917064b48d434bf70eb673a53602"
+    "revision": "43392f05beea4b5553df4d918ffceb47"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "3ed35fd5f4af019c6a946b85a8c7bedf"
+    "revision": "49a2845ce4874384d3017e5680110432"
   },
   {
     "url": "categories/前端/page/2/index.html",
-    "revision": "1bb466e3e1094494fe88e21c868ee2ea"
+    "revision": "ab695e152db3b125253b6612e05244d7"
   },
   {
     "url": "categories/前端/page/3/index.html",
-    "revision": "0e9ee734d5f375137b0fb0d18cb83c29"
+    "revision": "058edec9811f83bbe271202a4e744a60"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "0f9e724e5019fcf66d2b90ce69fccb75"
+    "revision": "35b21bc0951e5babe27badee68b5a4d5"
   },
   {
     "url": "index.html",
-    "revision": "96007c7cd2c859cda4bd8233d12d8722"
+    "revision": "7ab851b06ceb7c270b6b66ea471e145f"
   },
   {
     "url": "tag/Cocos Creator/index.html",
-    "revision": "bf0eff65bb398b057be7812411e52983"
+    "revision": "e2b6f38b055f9225d8493573ddc6ef4b"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "58b58de0bf5c3e0b05ff3db312b8a497"
+    "revision": "ebf1c3f1fc9bc835ab545310d09c5f19"
   },
   {
     "url": "tag/index.html",
-    "revision": "e09e8b7073cc39a75454defac661b4d0"
+    "revision": "e7e35dafd678585dc83d8961674d4e64"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "d02b3af412b3c8425311b1463f1a4b2c"
+    "revision": "55de53ba132ea3087daf84b4e4e2b215"
   },
   {
     "url": "tag/TypeScript/index.html",
-    "revision": "8fabe0f444fb142ead16952c5fb09023"
+    "revision": "a0eb54a8721e2b107ad6d0d4ef83f6d7"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "02237aa4db355f97ee1d11a70e1b7a77"
+    "revision": "e0e061a74110ead75d459aca1e723723"
   },
   {
     "url": "tag/学习笔记/index.html",
-    "revision": "aa9c1f2b053f8e61693033ee49ad5fa2"
+    "revision": "1e461ad542509d0b2c4774e588f03afe"
   },
   {
     "url": "tag/学习笔记/page/2/index.html",
-    "revision": "2a842beeb4a7ece0c55cc591009e7a34"
+    "revision": "b08e208b1a63085207b0a3fb9658e425"
   },
   {
     "url": "tag/正则表达式/index.html",
-    "revision": "102d11378f4248aef07481e3545124e9"
+    "revision": "f52ee2e8db8647e0e07200dc88a1b675"
   },
   {
     "url": "tag/珠峰高级/index.html",
-    "revision": "0a0973852f4671fa0b4d97ceb0d2c839"
+    "revision": "336df60688b0987b2762b560b831e7cd"
   },
   {
     "url": "tag/珠峰高级/page/2/index.html",
-    "revision": "dd4dfc414ddc8a6e00bb6f7efa345fe6"
+    "revision": "7651737294dd4aa9ade4ac21d1e1efbd"
   },
   {
     "url": "tag/设计模式/index.html",
-    "revision": "ec4dfe7591ec4fa32f7b72f88910ea52"
+    "revision": "a52e678f33a22372075798ef4c721958"
   },
   {
     "url": "tag/面试/index.html",
-    "revision": "842ae5b765d493f90008fc7e8f42168a"
+    "revision": "c60d7414f1a0ad9adf8eaedfcf3b3ce3"
   },
   {
     "url": "timeline/index.html",
-    "revision": "8833c433e4d7cb7e15f273a846b6d034"
+    "revision": "b68f098d03a13b3b3b627ea39e3d610f"
   },
   {
     "url": "views/designPattern/UML类图.html",
-    "revision": "6fd275f36c4f1ebd99d2d4478c2a6485"
+    "revision": "aabe479f3dfbff36d8ae646f7e2193a1"
   },
   {
     "url": "views/designPattern/设计原则.html",
-    "revision": "7d61400ce7802ae651737830a8d942eb"
+    "revision": "ac345eb9cb85a6f2bb6c38acb501c811"
   },
   {
     "url": "views/designPattern/面向对象.html",
-    "revision": "a87808a048f589cffa2b41e35b345275"
+    "revision": "d2677adbc663020c9d6b74e25f34370e"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "acb3b8ddadee2553edb94e524e9d5d1d"
+    "revision": "d8b2354c0958d429bdfe72c3751d624a"
   },
   {
     "url": "views/interview/ES6中this指向.html",
-    "revision": "d5f6336a8dc19cc28d30e34d5128abb4"
+    "revision": "57c030396ed26efa6a59af846568ac61"
   },
   {
     "url": "views/interview/ES6模板字符串.html",
-    "revision": "c5c7f3d1dc0f9d456f571b5f817eec14"
+    "revision": "599236605c5915ed812c2dd40282e9ba"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "ece4437954abc9184807171ec28a6be6"
+    "revision": "29c7801f468ab06ffa0078700ddd514b"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "31318bb067eb84ed1c58f1927a04d594"
+    "revision": "c627713c4d3bca04c34a239e358d98e2"
   },
   {
     "url": "views/interview/Object.assign().html",
-    "revision": "37e598848fac0ea71377014ab9e8bbf0"
+    "revision": "282ab970554f0b2370d1d70968dc59b4"
   },
   {
     "url": "views/interview/webpack构建后this指向.html",
-    "revision": "c40cacf93dfcfef051aa41e8f85b5716"
+    "revision": "cd983a95bd530f25312daed1ced3c8b3"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "bf243bf21b7d77f759b10a48f022ee4e"
+    "revision": "b5035fdc045bb2f7c3fc95f879a8533f"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "06f691edfbb19ffb432eb8b20825a85a"
+    "revision": "f176b04ccbef0c77b4a7f7d45a4fe7b0"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "20c0c380b5909bc4ab0a9ddc6deb2f34"
+    "revision": "611323c8edd7cd570093c58073863a99"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "66c50983d4582fe2929369d92d94b568"
+    "revision": "2b5f5295aeae1835eeb0b654174c1b6b"
   },
   {
     "url": "views/Web/2020/CocosCreator01.html",
-    "revision": "29d186ad11e19329dd12865aa8fb686e"
+    "revision": "f90b8b00fa35707f2b8afc2aa791780a"
   },
   {
     "url": "views/Web/2020/TypeScript系统入门到项目实战/TypeScript 基础语法.html",
-    "revision": "b40c14738f170165f90e53ff5f6b2f25"
+    "revision": "a009a7e1736994fbaf203e384d773f22"
   },
   {
     "url": "views/Web/2020/TypeScript系统入门到项目实战/使用 TypeScript 编写爬虫工具.html",
-    "revision": "231116bce8b931ae81d39659d510234d"
+    "revision": "ae9edc9f216b972cc78fac879b412f9a"
   },
   {
     "url": "views/Web/2020/前端JavaScript高级面试/ES6.html",
-    "revision": "214067ac124d01d25a6261886e7f6091"
+    "revision": "3881793d53b9cd57c8b25fd3142efc36"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "fef350a5780615443f3334e18a2fc557"
+    "revision": "0f752ec446ff5fd5965dce70e99f082e"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "fe98d4c610b39bdaae3a6c2e9b6ff7f9"
+    "revision": "9e3269219403e71eb5be831d34ec72ab"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "3fa9f750f62e8499749d81bc5b711822"
+    "revision": "a5ab26552fbe8b0f18f274ff3dfdd4ab"
   },
   {
     "url": "views/Web/2020/正则表达式.html",
-    "revision": "e96a70d1d3b89efa4d68f2d74fd88bb0"
+    "revision": "38758d5a1d2742758419479a6adb1c35"
   },
   {
     "url": "views/Web/2020/珠峰高级/0603.html",
-    "revision": "4cc59982a3483c902d1a823620fd55a6"
+    "revision": "61b689c0cadad5a2ccb6a038bf819440"
   },
   {
     "url": "views/Web/2020/珠峰高级/0605.html",
-    "revision": "850f69f848c36e970cf954d6ecc637da"
+    "revision": "4a785809e899d51474c77461a641a9c3"
   },
   {
     "url": "views/Web/2020/珠峰高级/0607-1.html",
-    "revision": "017b7e53f51eee9a85803ed0f3db2fec"
+    "revision": "ec46a258ab790af1fe8b90a361bc330e"
   },
   {
     "url": "views/Web/2020/珠峰高级/0607-2.html",
-    "revision": "65bcec1a6d7be82c2e4c713aeef9e61b"
+    "revision": "1cfcc15284dfa58514071e6d73fbae21"
   },
   {
     "url": "views/Web/2020/珠峰高级/0610.html",
-    "revision": "e871638ec0d8287ddacd2b1aa637dc3d"
+    "revision": "03a5a34921e96433fb2a207083a67757"
   },
   {
     "url": "views/Web/2020/珠峰高级/0612.html",
-    "revision": "9f206bb8d000f344b45ad3453e1a612f"
+    "revision": "16e210b32739bf046ac4e308997210df"
   },
   {
     "url": "views/Web/2020/珠峰高级/0614.html",
-    "revision": "8fac41ec60ef3ae0900f8a82ea0f1055"
+    "revision": "520c8d0ef47a6f0de0758431e65e7a81"
   },
   {
     "url": "views/Web/2020/珠峰高级/0621-1.html",
-    "revision": "c37d97bcb17b071e49784ca95f752898"
+    "revision": "2e8493cb3975e4e2064c9c1f4dec56b1"
   },
   {
     "url": "views/Web/2020/珠峰高级/0621-2.html",
-    "revision": "b76694cb7119028822d9039bda76d184"
+    "revision": "2f3d49f934b7ea4447c27cf04d69e3ab"
   },
   {
     "url": "views/Web/2020/珠峰高级/This处理及Call-Apply-Bind.html",
-    "revision": "508afc5f2d99983241d4df775e6f6ccb"
+    "revision": "77dc12c5ed8ae469cce0fd47ec939b7e"
   },
   {
     "url": "views/Web/2020/珠峰高级/webpack/JS中的模块化编程思想.html",
-    "revision": "7c3dfce3e68408c4dc0aea9773c55fc1"
+    "revision": "3bb4e971208c8b4794fc0a46b837a01e"
   },
   {
     "url": "views/Web/2020/珠峰高级/webpack/webpack.html",
-    "revision": "e20c5d055623173d8b9a4326f33e8072"
+    "revision": "b8522cb4c3ad9d0e1cc11ba534067065"
   },
   {
     "url": "views/Web/2020/珠峰高级/作业/第一周.html",
-    "revision": "691481e1bc4f7a8ae0e9974aba09ef81"
+    "revision": "f2f043669fbdbb583a131aa02b9cfca5"
   },
   {
     "url": "views/Web/2020/珠峰高级/作业/第二周.html",
-    "revision": "3f8be9c5931f3ed2827b3df5e163fc27"
+    "revision": "a126558a519b8b72f80ab3bf185e57f2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
