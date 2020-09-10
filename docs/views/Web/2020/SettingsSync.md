@@ -31,4 +31,4 @@ sidebar: auto
 统一配置
 :::
 
-## Shift+Ctrl+P ，打开 Sync:下载配置
+## Shift+Ctrl+P ，打开 Sync:下载配置(需科学上网)
