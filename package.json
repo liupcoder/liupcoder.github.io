@@ -4,18 +4,18 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "1.4.1",
+    "vuepress": "1.5.4",
     "vuepress-plugin-nest": "^1.0.2",
-    "vuepress-theme-reco": "1.4.5"
+    "vuepress-theme-reco": "1.5.5"
   },
   "dependencies": {
-    "@iktakahiro/markdown-it-katex": "^3.1.0",
+    "@iktakahiro/markdown-it-katex": "^4.0.0",
     "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.4",
-    "@vuepress/plugin-medium-zoom": "^1.4.1",
-    "@vuepress/plugin-nprogress": "^1.4.1",
-    "@vuepress/plugin-pwa": "^1.4.1",
-    "@vuepress/plugin-register-components": "^1.4.1",
-    "markdown-it": "^10.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.5.4",
+    "@vuepress/plugin-nprogress": "^1.5.4",
+    "@vuepress/plugin-pwa": "^1.5.4",
+    "@vuepress/plugin-register-components": "^1.5.4",
+    "markdown-it": "^11.0.0",
     "markdown-it-mark": "^3.0.0",
     "markdown-it-task-lists": "^2.1.1",
     "markdown-it-vuepress-code-snippet-enhanced": "^1.0.1",
@@ -23,8 +23,8 @@
     "vuepress-plugin-boxx": "^0.0.7",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3",
-    "vuepress-plugin-reading-progress": "^1.0.9",
-    "vuepress-plugin-ribbon": "^1.0.0",
+    "vuepress-plugin-reading-progress": "^1.0.10",
+    "vuepress-plugin-ribbon": "^1.0.2",
     "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
