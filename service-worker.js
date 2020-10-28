@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "52b0c93fb92988a3e1b97d77b68890d5"
+    "revision": "7eb949e3322e919aa6634caf5aefc714"
   },
   {
     "url": "assets/css/0.styles.94b50677.css",
@@ -78,36 +78,36 @@ self.__precacheManifest = [
     "revision": "eff9a656622a0634ba21169cbd8352ce"
   },
   {
-    "url": "assets/js/19.c87fbb96.js",
-    "revision": "da3f4d0f7e0c80b846dbff46e7eb76d7"
+    "url": "assets/js/19.331228df.js",
+    "revision": "6ed629107515c5e17ec82cc73e830f49"
   },
   {
-    "url": "assets/js/20.786c72af.js",
-    "revision": "e7b3d30d9d23c00888a9f4f933ff2e31"
+    "url": "assets/js/20.4d74efa6.js",
+    "revision": "095be8ecb8d77df7d3cf9ebd4bb4ee6e"
   },
   {
-    "url": "assets/js/21.79cecf99.js",
-    "revision": "e6177db4aac266240bb14bf5e82f6be0"
+    "url": "assets/js/21.00872871.js",
+    "revision": "f65fd579ac92914b26dc427ac1bd0d49"
   },
   {
-    "url": "assets/js/22.f3b2abc2.js",
-    "revision": "b6fb81596bb6b8c11036cea0be45cca0"
+    "url": "assets/js/22.c6855348.js",
+    "revision": "6d0c98c7668ead6a656d7edba4fceabd"
   },
   {
-    "url": "assets/js/23.a017e36c.js",
-    "revision": "0ecc64be8d85e5f9fe0e545ab25cdaee"
+    "url": "assets/js/23.cafcf910.js",
+    "revision": "a74ea1464b84f883409279f27ce24db2"
   },
   {
-    "url": "assets/js/24.95a4f8ae.js",
-    "revision": "fe35d2f39eed57ae34fb73b0b0960e3c"
+    "url": "assets/js/24.7280f570.js",
+    "revision": "b3322f58b8a2dda45582945f2869cd43"
   },
   {
-    "url": "assets/js/25.155cc0e8.js",
-    "revision": "334f6c5ddb9af83b360b5c449beb5969"
+    "url": "assets/js/25.e2b53a8d.js",
+    "revision": "a8aa592370cc4968b377637d30cf2c5f"
   },
   {
-    "url": "assets/js/26.5984c17f.js",
-    "revision": "a07cff9f2b24ee9cd093d7e5c5bc981e"
+    "url": "assets/js/26.9e43dc29.js",
+    "revision": "aa2218abe5543b2ec7abcb4170b405e2"
   },
   {
     "url": "assets/js/27.3c8bb5b2.js",
@@ -230,8 +230,8 @@ self.__precacheManifest = [
     "revision": "953b537b705653765b2fce874d1935f8"
   },
   {
-    "url": "assets/js/app.3b6273b0.js",
-    "revision": "4a5fbb89d40681fdffd47059f469f87f"
+    "url": "assets/js/app.8156f8a5.js",
+    "revision": "e37c3a9519bc4b15b693ee34800716ae"
   },
   {
     "url": "assets/js/vendors~flowchart.053a0673.js",
@@ -251,239 +251,239 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "cf9905e03370bc6ddbab6decb900924c"
+    "revision": "99a8e544653191ed4a53b4514fd24ac5"
   },
   {
     "url": "categories/iOS/index.html",
-    "revision": "e4374e82a9a11b736eceed764087e539"
+    "revision": "d0f1e8b59d904f65fdb01995804c1a6b"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "074fbd4d26fdf0e79acb9794b29d8dd7"
+    "revision": "2703f6bbc2901b838a771b9903f858d2"
   },
   {
     "url": "categories/前端/page/2/index.html",
-    "revision": "d1f34cbaeea0c7abc07a4f5140feaf7c"
+    "revision": "a6515158b72ce18efa5a25f8b1ecd23d"
   },
   {
     "url": "categories/前端/page/3/index.html",
-    "revision": "e695f0653a4fd847b17a88d8b50f1c91"
+    "revision": "f8fa959eeb6e284c5d62c77b0992186a"
   },
   {
     "url": "categories/理财/index.html",
-    "revision": "ca03e1714835a9f7bec3ba94a50a7817"
+    "revision": "eef7fbada76a4ccc80cbf1b3147d33c6"
   },
   {
     "url": "index.html",
-    "revision": "f85db78bbe7d01051f8ce982c97f42cc"
+    "revision": "a99ed6e07bf2c7e197854df009eabaae"
   },
   {
     "url": "tag/Cocos Creator/index.html",
-    "revision": "55a152a80805683ad28fa6269d97b14a"
+    "revision": "b2d8d974a932ca845397d25cb9881484"
   },
   {
     "url": "tag/IDEA/index.html",
-    "revision": "25d07d5a2f06f39355a956beba67e3d3"
+    "revision": "4636b4e6d1cf6ed61b893b91c69f3662"
   },
   {
     "url": "tag/index.html",
-    "revision": "deefcfc713e80c0b728223d38eaace51"
+    "revision": "b61c9192c8c37f4ee066c31884a60855"
   },
   {
     "url": "tag/iOS/index.html",
-    "revision": "4d5fc7a93d0b36b0c4afb740b8c2e626"
+    "revision": "c042749650b1ed555b740c0bc63a541b"
   },
   {
     "url": "tag/TypeScript/index.html",
-    "revision": "01d5cdd58d5f4b1e72e66118e7d8bd4b"
+    "revision": "93afad3f7933668ed5858ff3f4be2396"
   },
   {
     "url": "tag/VSCode/index.html",
-    "revision": "2e425771941d177c4fdf9decddd34da7"
+    "revision": "8f49a07492bbbe824e3296ed5377b329"
   },
   {
     "url": "tag/基金/index.html",
-    "revision": "3980e6ce50011214f39a275a45817bd7"
+    "revision": "d79162c65cd1922f014a864294106d80"
   },
   {
     "url": "tag/学习笔记/index.html",
-    "revision": "afd8fe7fb95d5047283cc5336649e03f"
+    "revision": "f61e44e13525fc4ad688c5d813c764f0"
   },
   {
     "url": "tag/学习笔记/page/2/index.html",
-    "revision": "533b84121c07fc1ff4239b57d19bc258"
+    "revision": "46a3ae28852c2820f6f20901378bf6ee"
   },
   {
     "url": "tag/正则表达式/index.html",
-    "revision": "9802750f1329fbe21f2ffe71bd289c1f"
+    "revision": "456b3aea4303fbb45248d7e64265db54"
   },
   {
     "url": "tag/珠峰高级/index.html",
-    "revision": "c40beb66acfa81765d2838e4a5b4fa67"
+    "revision": "cc1a289ecf5cedcaff7e6648f080184f"
   },
   {
     "url": "tag/珠峰高级/page/2/index.html",
-    "revision": "bf8a03e2f240ffadbdbdf42a5ec34529"
+    "revision": "9ea6d832e6b0ee403c38304bcc5818a4"
   },
   {
     "url": "tag/设计模式/index.html",
-    "revision": "4303f289781261c3971810cce7c9d1c1"
+    "revision": "4fea460a5f407310cd7416a819938f00"
   },
   {
     "url": "tag/面试/index.html",
-    "revision": "4be262da8f57ef9d86d013fb82de5ff6"
+    "revision": "95f3c6206f79cd6d88cf0917ea2c94a9"
   },
   {
     "url": "timeline/index.html",
-    "revision": "02e77d5dcfa81dbcddba2ade1d7330b1"
+    "revision": "ef2a3ca32517fc5fe82f53d0ad4b9190"
   },
   {
     "url": "views/designPattern/UML类图.html",
-    "revision": "9e4966a05460cc4b2c64cc4e2d130de7"
+    "revision": "762668eced6767ef627daa8f588fc360"
   },
   {
     "url": "views/designPattern/设计原则.html",
-    "revision": "4a425fdad9b45ebc063733d7e1103c13"
+    "revision": "41ff6366b1999bb6520a15880f756161"
   },
   {
     "url": "views/designPattern/面向对象.html",
-    "revision": "76dd7a0c03bc4ea2619c557617068d6b"
+    "revision": "452aed43ef58163f3932c3606c5cc2ce"
   },
   {
     "url": "views/financial/19061601.html",
-    "revision": "d332dc17c3065a481a7b2a7259d959e4"
+    "revision": "5e250d1a195a338dc72cc25cbd163f01"
   },
   {
     "url": "views/interview/ES6中this指向.html",
-    "revision": "fafcd665c4aefe7df6eeee682cc01201"
+    "revision": "a1b323d2d633a20f9e14baa4ffb7c54a"
   },
   {
     "url": "views/interview/ES6模板字符串.html",
-    "revision": "33f890d87dec1f2cf32ffa097324d1fe"
+    "revision": "57bdf7c0c0ae973a0a9d3cfdbb2cd149"
   },
   {
     "url": "views/interview/ES6类的理解.html",
-    "revision": "d08909ba54be6b2ca6af69025354b1af"
+    "revision": "03803846797bae09c6031a07be3715c5"
   },
   {
     "url": "views/interview/index.html",
-    "revision": "9dfba0e00a64768b231caa250257644b"
+    "revision": "5d1f19c6e88b2b3021a44e34130520c2"
   },
   {
     "url": "views/interview/Object.assign().html",
-    "revision": "26ee4933fba69baacfbcfdf73dd38d0b"
+    "revision": "93b2f136a6218937c5bd324882e70c3b"
   },
   {
     "url": "views/interview/webpack构建后this指向.html",
-    "revision": "316367726ca4fb8dd2180ec38484ca99"
+    "revision": "09fabcfaa3bee730480a771cb06938ca"
   },
   {
     "url": "views/interview/伪数组转数组.html",
-    "revision": "83c9df4a7b5c759387094234e9fd514a"
+    "revision": "68c0001e7ca790cfc5e56064265fa309"
   },
   {
     "url": "views/interview/变量声明.html",
-    "revision": "cc94f1ce411b5d2a05a458b254ff7629"
+    "revision": "5f90b70debec29d2afa6158efa9ab835"
   },
   {
     "url": "views/iOS/2016/iOS字面量的简单使用.html",
-    "revision": "9d89fde86ca90b971b5eee7b93bf82cf"
+    "revision": "19dcd0791f459dbba37c8585ef1a1c44"
   },
   {
     "url": "views/Web/2019/IDEA前端配置.html",
-    "revision": "367e8be8cfbac32844fa28d72f1d74d8"
+    "revision": "adbb11d131e52eb2122ba8119a1776e5"
   },
   {
     "url": "views/Web/2020/CocosCreator01.html",
-    "revision": "62ba33239a7fb2add695cfe92e752976"
+    "revision": "78c8623186706e4fa20ddbf9791e3759"
   },
   {
     "url": "views/Web/2020/SettingsSync.html",
-    "revision": "eefae56ccf47eadbcb129f75c8f82d4c"
+    "revision": "6653f7af53f63b6df104b39b6066d3fa"
   },
   {
     "url": "views/Web/2020/TypeScript系统入门到项目实战/TypeScript 基础语法.html",
-    "revision": "495789b960ec7eb88646c2b35ff771a0"
+    "revision": "6ee77bda0383e2562e05f3e00557f1f7"
   },
   {
     "url": "views/Web/2020/TypeScript系统入门到项目实战/使用 TypeScript 编写爬虫工具.html",
-    "revision": "bb92c0ac11168ab9f8e6872057e11740"
+    "revision": "25bf21fb2482a67a3f17dfbb2e7d63ff"
   },
   {
     "url": "views/Web/2020/前端JavaScript高级面试/ES6.html",
-    "revision": "588dfd6b7d3ff6aeecf6fda63150b271"
+    "revision": "3a8ee036ce670847c8d6dc7a0f6aa166"
   },
   {
     "url": "views/Web/2020/前端知识体系汇总.html",
-    "revision": "442b29ea2a99801c1528eb4de45a3864"
+    "revision": "67bf60af9b608d1d51008a0b74621464"
   },
   {
     "url": "views/Web/2020/常用工具.html",
-    "revision": "adb98a43fab1ebcc8c364ed1a721790e"
+    "revision": "20149a70eb0e13e55282790b375d1863"
   },
   {
     "url": "views/Web/2020/支付分享.html",
-    "revision": "31f4cb2535b09faa11b13c79a6dd7bd1"
+    "revision": "207c17378a10b128c3a3b86c3602374a"
   },
   {
     "url": "views/Web/2020/正则表达式.html",
-    "revision": "79a33fb650c28cb3a58e827a3ea328ae"
+    "revision": "01b950f1d8a82a7cc1ee451501eef3ab"
   },
   {
     "url": "views/Web/2020/珠峰高级/0603.html",
-    "revision": "9bfb52b1156eb28bde183ab541ba9a4f"
+    "revision": "51a5fa17249e478ea6f99525e36970ab"
   },
   {
     "url": "views/Web/2020/珠峰高级/0605.html",
-    "revision": "b57e8fc384d0600ee7d50cbbc7099dfd"
+    "revision": "52cfc6238be6b66554805b47498924a5"
   },
   {
     "url": "views/Web/2020/珠峰高级/0607-1.html",
-    "revision": "f536e84f9378a7a367f7eeadac9be4c6"
+    "revision": "670b08b88319cbf2980769d87e90af41"
   },
   {
     "url": "views/Web/2020/珠峰高级/0607-2.html",
-    "revision": "44d31a502872938d5320d2436fc17388"
+    "revision": "1feb0f3329445bbe40c720054c45e707"
   },
   {
     "url": "views/Web/2020/珠峰高级/0610.html",
-    "revision": "e334c5f0bdee516702c40a7e609d6bae"
+    "revision": "c318d1f1a72b4fe45ecae9347ad85f4e"
   },
   {
     "url": "views/Web/2020/珠峰高级/0612.html",
-    "revision": "c18e63985de9d0da949dc8b698259805"
+    "revision": "ec3b1b4b71d14e6b580c5664de5209d7"
   },
   {
     "url": "views/Web/2020/珠峰高级/0614.html",
-    "revision": "8136eb0eadedbaeb5ca8c31a9bf272d2"
+    "revision": "ffe8ef77506c25701459043bc75eaf63"
   },
   {
     "url": "views/Web/2020/珠峰高级/0621-1.html",
-    "revision": "c22a50d459007675669b559592bcea91"
+    "revision": "bd469454391e31fd992b437cf2d51978"
   },
   {
     "url": "views/Web/2020/珠峰高级/0621-2.html",
-    "revision": "af6b3f614c37be30b0b49ccd14b5e5f7"
+    "revision": "563be9c440b29ad4a099bb0febc916f5"
   },
   {
     "url": "views/Web/2020/珠峰高级/This处理及Call-Apply-Bind.html",
-    "revision": "93cf479bb5c51c8f9e191ffa99f82654"
+    "revision": "5d8790d6e1e884d8c8b1059cd7fc4153"
   },
   {
     "url": "views/Web/2020/珠峰高级/webpack/JS中的模块化编程思想.html",
-    "revision": "3e2c90a438afb564786f27af8ce70a55"
+    "revision": "be7424dd8d4fb18786f71a93ff83c4ba"
   },
   {
     "url": "views/Web/2020/珠峰高级/webpack/webpack.html",
-    "revision": "2d1168a1785a32dc994feac1668f8fae"
+    "revision": "afc9944878b3a525e2f079eacf286482"
   },
   {
     "url": "views/Web/2020/珠峰高级/作业/第一周.html",
-    "revision": "e072f533348ff4328f367a0686d64ea7"
+    "revision": "d88f3d6c2b29dc0e6aa2537e6aef9a39"
   },
   {
     "url": "views/Web/2020/珠峰高级/作业/第二周.html",
-    "revision": "35df41d8bbfc636f11cccfd64cce66d4"
+    "revision": "95525030a305fc8ea4bd53d3dd3e859f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
